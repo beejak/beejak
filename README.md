@@ -1,38 +1,21 @@
-<div align="center">
+# 💫 About Me:
+Model Context Protocol<br>NanoClaw<br>OpenClaw<br>MCP Security Scanner<br>n8n auomation.<br>Agentic Security<br>Vulnerable MCP Server<br>NSE Stock Channel Scanner built on top of NanoClaw
 
-# beejak
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=beejak&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=beejak&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=beejak&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-**静かに、確かに。**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=beejak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Security tooling · MCP · agents
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=beejak&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&text_color=1d1d1f&bg_color=f5f5f7&border_color=e8e8ed&border_radius=12" alt="GitHub stats" height="140" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beejak&layout=compact&hide_title=true&langs_count=6&text_color=1d1d1f&bg_color=f5f5f7&border_color=e8e8ed&border_radius=12" alt="Top languages" height="140" />
-
-<br /><br />
-
-</div>
-
----
-
-### Pinned work
-
-| | |
-| :-- | :-- |
-| [**mcp-sentinel**](https://github.com/beejak/mcp-sentinel) | Security scanner for MCP servers — secrets, injection, misconfigurations. |
-| [**docker-scanner**](https://github.com/beejak/docker-scanner) | Go tooling for container-oriented analysis. |
-| [**GHOST-PoC**](https://github.com/beejak/GHOST-PoC) | Grid Homeostasis & Orchestrated Self-healing Topology — research PoC. |
-| [**cursor-agent-skills**](https://github.com/beejak/cursor-agent-skills) | Practical agent skills and GitHub-oriented notes. |
-| [**Vulnerable-MCP-Server**](https://github.com/beejak/Vulnerable-MCP-Server) | Intentionally weak MCP server for testing scanners. |
-| [**ai-efficiency-handbooks**](https://github.com/beejak/ai-efficiency-handbooks) | Curated efficiency patterns for AI-assisted work. |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=beejak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=beejak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-[Profile](https://github.com/beejak) · [Repositories](https://github.com/beejak?tab=repositories)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
